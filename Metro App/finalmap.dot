@@ -1,0 +1,4 @@
+graph G {
+node [shape=rect,dpi=600] margin=0.75
+
+//red
